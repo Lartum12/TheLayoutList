@@ -9,6 +9,10 @@
     "password": "None",
     "records": [
         {
+            "user": "Test",
+            "link": "https://www.youtube.com/watch?v=COMPLETIONLINK",
+            "percent": 1,
+            "hz": 999
         }
     ]
 }
